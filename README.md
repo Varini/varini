@@ -16,7 +16,9 @@
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ```python
 >>> import this
-'''The Zen of Python, by Tim Peters
+```
+```
+The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -36,7 +38,7 @@ Now is better than never.
 Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let's do more of those!'''
+Namespaces are one honking great idea -- let's do more of those!
 ```
 ## Contact
 <a href="https://www.linkedin.com/in/leonardovarini/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
