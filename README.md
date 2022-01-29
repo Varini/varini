@@ -1,6 +1,6 @@
 ## Python Developer | Data Science Learner
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varini&theme=dracula&card_width=450&&hide_title=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varini&theme=dracula&card_width=300&&hide_title=true"/>
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
